@@ -1,0 +1,525 @@
+{
+  "characters": [
+    {
+      "id": "lancet2",
+      "name": "Lancet-2",
+      "faction": "rhodes",
+      "department": "医疗部",
+      "race": "机械",
+      "position": "医疗机器人",
+      "description": "可露希尔客制化后的雷神存在者™S Typer 62六轮作业平台，圆形外观可爱，是罗德岛的吉祥物之一。虽然说话消极，但深受大家喜爱。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/lancet2_avatar.png",
+      "portrait": "/images/portrait_art/lancet2_portrait.webp",
+      "operator_art": "/images/portrait_art/lancet2_portrait.webp"
+    },
+    {
+      "id": "castle3",
+      "name": "Castle-3",
+      "faction": "rhodes",
+      "department": "作战部",
+      "race": "机械",
+      "position": "战斗机器人",
+      "description": "可露希尔客制化后的雷神存在者™Plus六轮作业平台。方正形象给人可靠感，身上标记可能代表杀敌数。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/castle3_avatar.png",
+      "portrait": "/images/portrait_art/castle3_portrait.webp",
+      "operator_art": "/images/portrait_art/castle3_portrait.webp"
+    },
+    {
+      "id": "yatou",
+      "name": "夜刀",
+      "faction": "rhodes",
+      "department": "近卫部",
+      "race": "鬼",
+      "position": "基础干员",
+      "description": "罗德岛基础干员之一，基础干员组长，忠诚可靠的武士。沉默寡言，存在感稀薄，擅长隐秘行动。",
+      "internal_relationships": [
+        {
+          "target": "heijiao",
+          "type": "搭档",
+          "description": "与黑角关系密切"
+        }
+      ],
+      "external_relationships": [],
+      "avatar": "/images/avatars/yatou_avatar.png",
+      "portrait": "/images/portrait_art/yatou_portrait.webp",
+      "operator_art": "/images/portrait_art/yatou_portrait.webp"
+    },
+    {
+      "id": "heijiao",
+      "name": "黑角",
+      "faction": "rhodes",
+      "department": "重装部",
+      "race": "鬼",
+      "position": "基础干员",
+      "description": "罗德岛基础干员之一，实干型角色。戴面具但性格活泼，喜欢收藏各式面具。",
+      "internal_relationships": [
+        {
+          "target": "yatou",
+          "type": "搭档",
+          "description": "与夜刀关系密切"
+        }
+      ],
+      "external_relationships": [],
+      "avatar": "/images/avatars/heijiao_avatar.png",
+      "portrait": "/images/portrait_art/heijiao_portrait.webp",
+      "operator_art": "/images/portrait_art/heijiao_portrait.webp"
+    },
+    {
+      "id": "xunlinzhe",
+      "name": "巡林者",
+      "faction": "rhodes",
+      "department": "狙击部",
+      "race": "萨弗拉",
+      "position": "干员",
+      "description": "罗德岛A4行动组所属干员，老员工。专业弓手，年事已高但保持敏捷。优秀的说书人，深受小干员喜爱。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/xunlinzhe_avatar.png",
+      "portrait": "/images/portrait_art/xunlinzhe_portrait.webp",
+      "operator_art": "/images/portrait_art/xunlinzhe_portrait.webp"
+    },
+    {
+      "id": "dulin",
+      "name": "杜林",
+      "faction": "rhodes",
+      "department": "术师部",
+      "race": "杜林",
+      "position": "干员",
+      "description": "罗德岛A4行动组所属干员。有较强法术天赋但因性格和体质无法完全施展。极度嗜睡，吃东西速度快。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/dulin_avatar.png",
+      "portrait": "/images/portrait_art/dulin_portrait.webp",
+      "operator_art": "/images/portrait_art/dulin_portrait.webp"
+    },
+    {
+      "id": "12f",
+      "name": "12F",
+      "faction": "rhodes",
+      "department": "术师部",
+      "race": "萨弗拉",
+      "position": "干员",
+      "description": "曾在多个势力间游荡的雇佣兵，与巨枭一同加入罗德岛。外表严肃但善于协调，深受队友信赖。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/12f_avatar.png",
+      "portrait": "/images/portrait_art/12f_portrait.webp",
+      "operator_art": "/images/portrait_art/12f_portrait.webp"
+    },
+    {
+      "id": "fen",
+      "name": "芬",
+      "faction": "rhodes",
+      "department": "先锋部",
+      "race": "库兰塔",
+      "position": "行动预备组A1队长",
+      "description": "行动预备组A1队长，前警备队实习生。急性子一根筋，与米格鲁、克洛丝关系密切。因天灾感染矿石病后来到罗德岛。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/fen_avatar.png",
+      "portrait": "/images/portrait_art/fen_portrait.webp",
+      "operator_art": "/images/portrait_art/fen_portrait.webp"
+    },
+    {
+      "id": "xiangcao",
+      "name": "香草",
+      "faction": "rhodes",
+      "department": "先锋部",
+      "race": "瓦伊凡",
+      "position": "干员",
+      "description": "黑钢派遣的受训生，通过交流项目驻扎罗德岛。爱护动物，包括源石蜗牛等特殊生物。出身与世隔绝的部族，正在适应现代设施。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/xiangcao_avatar.png",
+      "portrait": "/images/portrait_art/xiangcao_portrait.webp",
+      "operator_art": "/images/portrait_art/xiangcao_portrait.webp"
+    },
+    {
+      "id": "lingyu",
+      "name": "翎羽",
+      "faction": "rhodes",
+      "department": "先锋部",
+      "race": "黎博利",
+      "position": "干员",
+      "description": "前拉特兰戍卫队成员，阴差阳错来到罗德岛。认真坚定忠于职守，正在适应罗德岛的生活氛围。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/lingyu_avatar.png",
+      "portrait": "/images/portrait_art/lingyu_portrait.webp",
+      "operator_art": "/images/portrait_art/lingyu_portrait.webp"
+    },
+    {
+      "id": "meilansha",
+      "name": "玫兰莎",
+      "faction": "rhodes",
+      "department": "近卫部",
+      "race": "菲林",
+      "position": "行动预备组A4组长",
+      "description": "行动预备组A4组长，维多利亚出身的感染者。家境优越，擅长剑术，师从芙兰卡。细心温和，深受组员好评。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/meilansha_avatar.png",
+      "portrait": "/images/portrait_art/meilansha_portrait.webp",
+      "operator_art": "/images/portrait_art/meilansha_portrait.webp"
+    },
+    {
+      "id": "amya",
+      "name": "阿米娅",
+      "faction": "rhodes",
+      "department": "高层",
+      "race": "卡特斯",
+      "position": "公开领袖",
+      "description": "罗德岛的公开领袖，年幼的卡特斯感染者。拥有罕见的源石技艺天赋，能够与他人建立精神链接。",
+      "internal_relationships": [
+        {
+          "target": "doctor",
+          "type": "信任",
+          "description": "绝对信任博士，视其为最重要的人"
+        },
+        {
+          "target": "keli",
+          "type": "信任",
+          "description": "尊敬凯尔希医生，但有时对她的做法有异议"
+        }
+      ],
+      "external_relationships": [],
+      "avatar": "/images/avatars/amya_avatar.png",
+      "portrait": "/images/portrait_art/amya_portrait.webp",
+      "operator_art": "/images/portrait_art/amya_portrait.webp"
+    },
+    {
+      "id": "doctor",
+      "name": "博士",
+      "faction": "rhodes",
+      "department": "指挥中心",
+      "race": "未知",
+      "position": "战术指挥",
+      "description": "罗德岛的战术指挥，具有卓越的战略头脑。因未知原因失去了大部分记忆。",
+      "internal_relationships": [
+        {
+          "target": "amya",
+          "type": "信任",
+          "description": "阿米娅最信任的人"
+        },
+        {
+          "target": "keli",
+          "type": "信任",
+          "description": "与凯尔希有着悠久的合作关系"
+        }
+      ],
+      "external_relationships": [],
+      "avatar": "/images/avatars/doctor_avatar.png",
+      "portrait": "/images/portrait_art/doctor_portrait.webp",
+      "operator_art": "/images/portrait_art/doctor_portrait.webp"
+    },
+    {
+      "id": "keli",
+      "name": "凯尔希",
+      "faction": "rhodes",
+      "department": "医疗部",
+      "race": "萨卡兹",
+      "position": "医疗总监",
+      "description": "罗德岛医疗部门的最高负责人，见证了泰拉世界的无数历史变迁。对博士和阿米娅保护欲强烈。",
+      "internal_relationships": [
+        {
+          "target": "doctor",
+          "type": "信任",
+          "description": "与博士有着悠久的合作关系"
+        },
+        {
+          "target": "amya",
+          "type": "信任",
+          "description": "与阿米娅相互信任"
+        }
+      ],
+      "external_relationships": [
+        {
+          "target": "talula",
+          "type": "复杂",
+          "description": "与塔露拉有复杂的历史渊源"
+        },
+        {
+          "target": "w",
+          "type": "警惕",
+          "description": "对W保持警惕"
+        }
+      ],
+      "avatar": "/images/avatars/keli_avatar.png",
+      "portrait": "/images/portrait_art/keli_portrait.webp",
+      "operator_art": "/images/portrait_art/keli_portrait.webp"
+    },
+    {
+      "id": "talula",
+      "name": "塔露拉",
+      "faction": "reunion",
+      "department": "核心",
+      "race": "龙族",
+      "position": "整合运动首领",
+      "description": "整合运动的实际领袖，曾经是巴别塔的核心成员。强大的源石技艺使用者，性格坚定果敢。",
+      "internal_relationships": [
+        {
+          "target": "patriot",
+          "type": "忠诚",
+          "description": null
+        }
+      ],
+      "external_relationships": [
+        {
+          "target": "keli",
+          "type": "复杂",
+          "description": "与凯尔希有未解的历史纠葛"
+        },
+        {
+          "target": "amya",
+          "type": "复杂",
+          "description": "与阿米娅存在某种联系"
+        },
+        {
+          "target": "w",
+          "type": "复杂",
+          "description": "与W有历史渊源"
+        }
+      ],
+      "avatar": "/images/avatars/talula_avatar.png",
+      "portrait": "/images/portrait_art/talula_portrait.webp",
+      "operator_art": "/images/portrait_art/talula_portrait.webp"
+    },
+    {
+      "id": "mephisto",
+      "name": "梅菲斯特",
+      "faction": "reunion",
+      "department": "作战部",
+      "race": "未知",
+      "position": "干部",
+      "description": "整合运动干部，擅长精神系源石技艺。性格残忍且扭曲，将战争视为游戏。",
+      "internal_relationships": [
+        {
+          "target": "faust",
+          "type": "依赖",
+          "description": "对浮士德有着病态的依赖"
+        }
+      ],
+      "external_relationships": [
+        {
+          "target": "amya",
+          "type": "敌对",
+          "description": "视罗德岛为敌人"
+        }
+      ],
+      "avatar": "/images/avatars/mephisto_avatar.png",
+      "portrait": "/images/portrait_art/mephisto_portrait.webp",
+      "operator_art": "/images/portrait_art/mephisto_portrait.webp"
+    },
+    {
+      "id": "faust",
+      "name": "浮士德",
+      "faction": "reunion",
+      "department": "作战部",
+      "race": "未知",
+      "position": "干部",
+      "description": "整合运动干部，沉默寡言的狙击手。是梅菲斯特最忠诚的伙伴。",
+      "internal_relationships": [
+        {
+          "target": "mephisto",
+          "type": "守护",
+          "description": "以生命守护梅菲斯特"
+        }
+      ],
+      "external_relationships": [],
+      "avatar": "/images/avatars/faust_avatar.png",
+      "portrait": "/images/portrait_art/faust_portrait.webp",
+      "operator_art": "/images/portrait_art/faust_portrait.webp"
+    },
+    {
+      "id": "patriot",
+      "name": "爱国者",
+      "faction": "reunion",
+      "department": "作战部",
+      "race": "库兰塔",
+      "position": "干部",
+      "description": "整合运动元老级干部，感染程度严重的战士。曾经是巴别塔的成员，对感染者有着坚定的信念。",
+      "internal_relationships": [
+        {
+          "target": "talula",
+          "type": "忠诚",
+          "description": "坚决支持塔露拉"
+        }
+      ],
+      "external_relationships": [
+        {
+          "target": "amya",
+          "type": "复杂",
+          "description": "与阿米娅有某种渊源"
+        }
+      ],
+      "avatar": "/images/avatars/patriot_avatar.png",
+      "portrait": "/images/portrait_art/patriot_portrait.webp",
+      "operator_art": "/images/portrait_art/patriot_portrait.webp"
+    },
+    {
+      "id": "chen",
+      "name": "陈",
+      "faction": "lungmen",
+      "department": "近卫局",
+      "race": "龙族",
+      "position": "近卫局局长",
+      "description": "龙门近卫局局长，魏彦吾的侄女。性格火爆，正义感极强，致力于维护龙门的治安。",
+      "internal_relationships": [
+        {
+          "target": "starho",
+          "type": "搭档",
+          "description": "与星熊是多年的搭档"
+        }
+      ],
+      "external_relationships": [
+        {
+          "target": "rhodes",
+          "type": "合作",
+          "description": "与罗德岛保持合作关系"
+        }
+      ],
+      "avatar": "/images/avatars/chen_avatar.png",
+      "portrait": "/images/portrait_art/chen_portrait.webp",
+      "operator_art": "/images/portrait_art/chen_portrait.webp"
+    },
+    {
+      "id": "starho",
+      "name": "星熊",
+      "faction": "lungmen",
+      "department": "近卫局",
+      "race": "鬼族",
+      "position": "近卫局成员",
+      "description": "龙门近卫局的资深干员，性格豪爽。是陈的得力战友。",
+      "internal_relationships": [
+        {
+          "target": "chen",
+          "type": "搭档",
+          "description": "与陈是老搭档"
+        }
+      ],
+      "external_relationships": [],
+      "avatar": "/images/avatars/starho_avatar.png",
+      "portrait": "/images/portrait_art/starho_portrait.webp",
+      "operator_art": "/images/portrait_art/starho_portrait.webp"
+    },
+    {
+      "id": "texas",
+      "name": "德克萨斯",
+      "faction": "penguin",
+      "department": "物流部",
+      "race": "菲林",
+      "position": "员工",
+      "description": "企鹅物流的员工，曾经是萨尔贡的雇佣兵。性格冷静，擅长剑术。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/texas_avatar.png",
+      "portrait": "/images/portrait_art/texas_portrait.webp",
+      "operator_art": "/images/portrait_art/texas_portrait.webp"
+    },
+    {
+      "id": "silverash",
+      "name": "银灰",
+      "faction": "kjerag",
+      "department": "董事会",
+      "race": "黎博利",
+      "position": "董事长",
+      "description": "喀兰贸易公司董事长，真实身份是喀兰的暗部首领。心思缜密，手段高明。",
+      "internal_relationships": [],
+      "external_relationships": [
+        {
+          "target": "rhodes",
+          "type": "合作",
+          "description": "与罗德岛建立了合作关系"
+        }
+      ],
+      "avatar": "/images/avatars/silverash_avatar.png",
+      "portrait": "/images/portrait_art/silverash_portrait.webp",
+      "operator_art": "/images/portrait_art/silverash_portrait.webp"
+    },
+    {
+      "id": "w",
+      "name": "W",
+      "faction": "kazdel",
+      "department": "佣兵",
+      "race": "萨卡兹",
+      "position": "佣兵",
+      "description": "萨卡兹雇佣兵，曾是巴别塔的成员。性格疯狂但理智，喜欢战斗与爆炸。",
+      "internal_relationships": [],
+      "external_relationships": [
+        {
+          "target": "talula",
+          "type": "复杂",
+          "description": "与塔露拉有历史渊源"
+        },
+        {
+          "target": "keli",
+          "type": "警惕",
+          "description": "对凯尔希保持警惕"
+        }
+      ],
+      "avatar": "/images/avatars/w_avatar.png",
+      "portrait": "/images/portrait_art/w_portrait.webp",
+      "operator_art": "/images/portrait_art/w_portrait.webp"
+    },
+    {
+      "id": "liskarm",
+      "name": "雷蛇",
+      "faction": "rhodes",
+      "department": "重装部",
+      "race": "埃拉菲亚",
+      "position": "干员",
+      "description": "罗德岛重装干员，使用电系源石技艺的埃拉菲亚族少女。性格开朗，乐于助人。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/liskarm_avatar.png",
+      "portrait": "/images/portrait_art/liskarm_portrait.webp",
+      "operator_art": "/images/portrait_art/liskarm_portrait.webp"
+    },
+    {
+      "id": "roberta",
+      "name": "红豆",
+      "faction": "rhodes",
+      "department": "先锋部",
+      "race": "埃拉菲亚",
+      "position": "干员",
+      "description": "罗德岛先锋干员，活泼开朗的少女。擅长快速部署和费用回复。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/roberta_avatar.png",
+      "portrait": "/images/portrait_art/roberta_portrait.webp",
+      "operator_art": "/images/portrait_art/roberta_portrait.webp"
+    },
+    {
+      "id": "warfarin",
+      "name": "华法琳",
+      "faction": "rhodes",
+      "department": "医疗部",
+      "race": "萨卡兹",
+      "position": "干员",
+      "description": "罗德岛医疗干员，萨卡兹族的血族少女。外表可爱但性格腹黑。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/warfarin_avatar.png",
+      "portrait": "/images/portrait_art/warfarin_portrait.webp",
+      "operator_art": "/images/portrait_art/warfarin_portrait.webp"
+    },
+    {
+      "id": "sora",
+      "name": "空",
+      "faction": "rhodes",
+      "department": "辅助部",
+      "race": "埃拉菲亚",
+      "position": "干员",
+      "description": "罗德岛辅助干员，前偶像歌手。歌声具有特殊的源石技艺效果。",
+      "internal_relationships": [],
+      "external_relationships": [],
+      "avatar": "/images/avatars/sora_avatar.png",
+      "portrait": "/images/portrait_art/sora_portrait.webp",
+      "operator_art": "/images/portrait_art/sora_portrait.webp"
+    }
+  ]
+}

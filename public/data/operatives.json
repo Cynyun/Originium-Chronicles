@@ -1,0 +1,235 @@
+{
+  "operatives": [
+    {
+      "id": "lancet2",
+      "rarity": 1,
+      "class": "medic",
+      "cost": 5,
+      "tags": [
+        "治疗",
+        "辅助"
+      ]
+    },
+    {
+      "id": "castle3",
+      "rarity": 1,
+      "class": "guard",
+      "cost": 6,
+      "tags": [
+        "近战",
+        "输出"
+      ]
+    },
+    {
+      "id": "yatou",
+      "rarity": 2,
+      "class": "guard",
+      "cost": 6,
+      "tags": [
+        "近战",
+        "输出"
+      ]
+    },
+    {
+      "id": "heijiao",
+      "rarity": 2,
+      "class": "defender",
+      "cost": 7,
+      "tags": [
+        "防御",
+        "近战"
+      ]
+    },
+    {
+      "id": "xunlinzhe",
+      "rarity": 2,
+      "class": "sniper",
+      "cost": 8,
+      "tags": [
+        "远程",
+        "输出"
+      ]
+    },
+    {
+      "id": "dulin",
+      "rarity": 2,
+      "class": "caster",
+      "cost": 7,
+      "tags": [
+        "远程",
+        "输出"
+      ]
+    },
+    {
+      "id": "12f",
+      "rarity": 2,
+      "class": "caster",
+      "cost": 8,
+      "tags": [
+        "远程",
+        "输出"
+      ]
+    },
+    {
+      "id": "fen",
+      "rarity": 3,
+      "class": "vanguard",
+      "cost": 9,
+      "tags": [
+        "近战",
+        "费用回复"
+      ]
+    },
+    {
+      "id": "xiangcao",
+      "rarity": 3,
+      "class": "vanguard",
+      "cost": 9,
+      "tags": [
+        "近战",
+        "费用回复"
+      ]
+    },
+    {
+      "id": "lingyu",
+      "rarity": 3,
+      "class": "vanguard",
+      "cost": 8,
+      "tags": [
+        "近战",
+        "输出"
+      ]
+    },
+    {
+      "id": "meilansha",
+      "rarity": 3,
+      "class": "guard",
+      "cost": 8,
+      "tags": [
+        "近战",
+        "输出"
+      ]
+    },
+    {
+      "id": "amya",
+      "rarity": 6,
+      "class": "caster",
+      "cost": 12,
+      "tags": [
+        "远程",
+        "输出",
+        "减速"
+      ]
+    },
+    {
+      "id": "doctor",
+      "rarity": 6,
+      "class": "supporter",
+      "cost": 10,
+      "tags": [
+        "支援",
+        "治疗"
+      ]
+    },
+    {
+      "id": "keli",
+      "rarity": 6,
+      "class": "medic",
+      "cost": 14,
+      "tags": [
+        "治疗",
+        "支援"
+      ]
+    },
+    {
+      "id": "chen",
+      "rarity": 6,
+      "class": "guard",
+      "cost": 18,
+      "tags": [
+        "近战",
+        "输出"
+      ]
+    },
+    {
+      "id": "starho",
+      "rarity": 5,
+      "class": "guard",
+      "cost": 15,
+      "tags": [
+        "近战",
+        "防御"
+      ]
+    },
+    {
+      "id": "texas",
+      "rarity": 5,
+      "class": "vanguard",
+      "cost": 9,
+      "tags": [
+        "近战",
+        "费用回复"
+      ]
+    },
+    {
+      "id": "silverash",
+      "rarity": 6,
+      "class": "guard",
+      "cost": 20,
+      "tags": [
+        "近战",
+        "输出"
+      ]
+    },
+    {
+      "id": "liskarm",
+      "rarity": 4,
+      "class": "defender",
+      "cost": 12,
+      "tags": [
+        "防御",
+        "近战"
+      ]
+    },
+    {
+      "id": "roberta",
+      "rarity": 3,
+      "class": "vanguard",
+      "cost": 6,
+      "tags": [
+        "近战",
+        "费用回复"
+      ]
+    },
+    {
+      "id": "warfarin",
+      "rarity": 5,
+      "class": "medic",
+      "cost": 13,
+      "tags": [
+        "治疗",
+        "攻击"
+      ]
+    },
+    {
+      "id": "sora",
+      "rarity": 3,
+      "class": "supporter",
+      "cost": 7,
+      "tags": [
+        "支援",
+        "减速"
+      ]
+    },
+    {
+      "id": "w",
+      "rarity": 5,
+      "class": "sniper",
+      "cost": 25,
+      "tags": [
+        "输出",
+        "远程"
+      ]
+    }
+  ]
+}

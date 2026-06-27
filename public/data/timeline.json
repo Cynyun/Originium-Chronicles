@@ -1,0 +1,965 @@
+{
+  "events": [
+    {
+      "id": "dwdb_project",
+      "year": "前文明时期",
+      "era": "远古时代",
+      "title": "DWDB-221E项目",
+      "description": "DWDB-221E项目取得成果，老行星工程师将其命名为\"文明的存续\"。",
+      "content": "<p>前文明时期的关键科研项目DWDB-221E取得重大成果，被命名为\"文明的存续\"。这一项目与阿米娅的模组【DWDB-221E】密切相关。</p>",
+      "tags": [
+        "前文明",
+        "科研",
+        "阿米娅"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [
+        "amya"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "ama10_project",
+      "year": "前文明时期",
+      "era": "远古时代",
+      "title": "AMa-10项目",
+      "description": "AMa-10项目取得成果，以双生循环系统为核心研发的机械生命诞生，但未等到量产机会。",
+      "content": "<p>AMa-10项目成功研发出以双生循环系统为核心的机械生命。这一成果后来成为凯尔希和Mon3tr的起源。</p>",
+      "tags": [
+        "前文明",
+        "科研",
+        "凯尔希"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [
+        "keli"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "preserver_plan",
+      "year": "前文明时期",
+      "era": "远古时代",
+      "title": "保存者计划启动",
+      "description": "为应对毁灭灾难，\"保存者\"计划启动，特雷弗·弗里斯顿化作数字生命看守\"石棺\"。",
+      "content": "<p>面对即将到来的毁灭灾难，前文明启动了\"保存者\"计划。特雷弗·弗里斯顿化作数字生命，负责看守\"石棺\"设施。同时启动的还有\"深蓝之树\"计划、\"天堂支点\"计划和源石计划。</p>",
+      "tags": [
+        "前文明",
+        "计划",
+        "石棺"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "woodcutter_catastrophe",
+      "year": "前文明时期",
+      "era": "远古时代",
+      "title": "伐木工灾难",
+      "description": "\"伐木工\"观察者文明对泰拉所在星球的前文明降下毁灭灾难。",
+      "content": "<p>来自宇宙的\"伐木工\"观察者文明对泰拉星球的前文明发动了毁灭性攻击，导致前文明的终结。这一事件在第十五章剧情中有所提及。</p>",
+      "tags": [
+        "前文明",
+        "灾难",
+        "毁灭"
+      ],
+      "category": "disaster",
+      "importance": "critical",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "prophet_recording_custodian",
+      "year": "TT 209/09/03",
+      "era": "远古时代",
+      "title": "预言家录音",
+      "description": "预言家录下给弗里斯顿的录音《The Custodian》，\"保存者\"计划即将启动。",
+      "content": "<p>预言家在TT 209/09/03录下给弗里斯顿的录音《The Custodian》，在录音中向弗里斯顿告别，预示着\"保存者\"计划即将启动。</p>",
+      "tags": [
+        "前文明",
+        "预言家",
+        "录音"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "prophet_recording_fosterer",
+      "year": "TT 228/23/12",
+      "era": "远古时代",
+      "title": "深蓝之树计划",
+      "description": "预言家录下回复陆的录音《The Fosterer》，\"深蓝之树\"设施巨兽样本分析完成。",
+      "content": "<p>预言家录下回复陆的录音《The Fosterer》，此时\"深蓝之树\"设施处的巨兽活体组织样本的环境适应性分析已全部完成。</p>",
+      "tags": [
+        "前文明",
+        "预言家",
+        "深蓝之树"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "prophet_recording_security",
+      "year": "TT 229/16/01",
+      "era": "远古时代",
+      "title": "天堂支点计划",
+      "description": "预言家录下劝说艾德的录音《The Security》，陈述对\"天堂支点\"计划的看法。",
+      "content": "<p>预言家录下劝说艾德的录音《The Security》，在录音中陈述了自己对\"天堂支点\"计划的看法。</p>",
+      "tags": [
+        "前文明",
+        "预言家",
+        "天堂支点"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "kelsey_naming",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "凯尔希命名",
+      "description": "预言家提前苏醒，将AMa-10命名为\"凯尔希\"并将其放出。",
+      "content": "<p>预言家提前苏醒后，对泰拉大地进行了勘测，并将AMa-10命名为\"凯尔希\"，将其释放到泰拉世界中。</p>",
+      "tags": [
+        "凯尔希",
+        "预言家",
+        "前文明"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [
+        "keli"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "yan_country_founding",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "大炎建国",
+      "description": "大炎建国，分封诸侯引发\"百氏之乱\"，后在岁的帮助下真龙重新统一。",
+      "content": "<p>大炎建国初期，分封的各诸侯于初代真龙死后开始争夺领土，引发百年乱世\"百氏之乱\"。最终在岁的帮助下，真龙重新统一了大炎。</p>",
+      "tags": [
+        "大炎",
+        "真龙",
+        "岁"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "大炎",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "great_hunt",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "大狩猎",
+      "description": "真龙召集奇人讨伐神明，史称\"大狩猎\"，巨兽\"岁\"被捕获镇压。",
+      "content": "<p>真龙召集奇人异士讨伐神明，史称\"大狩猎\"。在此期间，包括\"睚\"、矩兽、后兽在内的诸多巨兽被驱逐，而\"岁\"被后兽重伤并被炎国捕获，锁入岁陵镇压。</p>",
+      "tags": [
+        "大炎",
+        "真龙",
+        "岁",
+        "巨兽"
+      ],
+      "category": "war",
+      "importance": "critical",
+      "location": "大炎",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "baizao_capital",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "百灶建城",
+      "description": "炎国在璟玙主矿脉上建造首都百灶，取照拂天下烟火之意。",
+      "content": "<p>炎国在一场大战后发现了璟玙主矿脉。为抵消其带来的天灾影响，真龙决定将城市直接建在矿脉上，历时五十三载建成首都，赐名\"百灶\"。</p>",
+      "tags": [
+        "大炎",
+        "首都",
+        "源石"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "大炎·百灶",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "wa_stone",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "娲石仪式",
+      "description": "方士寻得最初的源石\"娲\"，与真龙血脉相连，立下\"不反\"仪式。",
+      "content": "<p>一位方士在璟玙主矿脉寻得最初的源石\"娲\"，将其作为结束大狩猎的致胜武器献给真龙。真龙请方士以秘术将娲石与真龙血脉相连，并立下\"不反\"仪式。</p>",
+      "tags": [
+        "大炎",
+        "源石",
+        "仪式"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "大炎",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "sherag_founding",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "谢拉格建立",
+      "description": "耶拉冈德建立谢拉格，后续进入沉睡，改由三族治理。",
+      "content": "<p>耶拉冈德建立了谢拉格，之后进入沉睡状态，国家改由三族共同治理。</p>",
+      "tags": [
+        "谢拉格",
+        "耶拉冈德",
+        "三族"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "谢拉格",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "sherag_rebellion",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "谢拉格圣女诞生",
+      "description": "谢拉格人民暴动反抗蔓珠院，耶拉冈德苏醒，仪式中心少女成为第一任圣女。",
+      "content": "<p>在百年得不到回应的献祭仪式后，谢拉格人民暴动反抗蔓珠院。耶拉冈德苏醒结束了反抗，仪式中心的少女成为谢拉格的第一任圣女。</p>",
+      "tags": [
+        "谢拉格",
+        "圣女",
+        "耶拉冈德"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "谢拉格",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "leithanien_founding",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "莱塔尼亚前身",
+      "description": "十大部族建立同盟，制定《金律乐章》，成为莱塔尼亚的前身。",
+      "content": "<p>在卡兹戴尔的威胁下，十大部族决定建立一个同盟，制定了《金律乐章》，这成为了莱塔尼亚的前身。</p>",
+      "tags": [
+        "莱塔尼亚",
+        "金律乐章",
+        "部族"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "莱塔尼亚",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "sargon_founding",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "萨尔贡君权确立",
+      "description": "阿斯兰征服大地西南诸部落，泰拉最初的君权在萨尔贡确立。",
+      "content": "<p>阿斯兰征服了大地西南的诸部落，泰拉世界最初的君权制度在萨尔贡确立。</p>",
+      "tags": [
+        "萨尔贡",
+        "阿斯兰",
+        "君权"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "萨尔贡",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "victoria_founding",
+      "year": "泰拉纪元前未知年份",
+      "era": "远古时代",
+      "title": "维多利亚建国",
+      "description": "谷地游牧民族分裂，王政派建立维多利亚王国，守旧派迁至今塔拉地区。",
+      "content": "<p>谷地的游牧民族发生分裂，王政派建立了维多利亚王国，而守旧派则迁移到了今塔拉地区。</p>",
+      "tags": [
+        "维多利亚",
+        "塔拉",
+        "建国"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "维多利亚",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "first_kazdel",
+      "year": "约前10000年~前9000年",
+      "era": "远古时代",
+      "title": "第一座卡兹戴尔",
+      "description": "第一魔王\"远逐者\"建立第一座卡兹戴尔，最早的种族概念\"提卡兹\"成型。",
+      "content": "<p>泰拉上出现采猎文明时期，第一魔王\"远逐者\"因不进行同类相食被逐出部落，获得\"文明的存续\"后成为第一位可追溯的魔王，建立了第一座卡兹戴尔。最早的种族概念\"提卡兹\"由此成型。</p>",
+      "tags": [
+        "卡兹戴尔",
+        "提卡兹",
+        "魔王"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "卡兹戴尔",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "gods_descent",
+      "year": "约前9000年",
+      "era": "远古时代",
+      "title": "神民降临",
+      "description": "神民和先民从塔卫二\"降临\"至泰拉。",
+      "content": "<p>约前9000年，神民和先民从塔卫二\"降临\"至泰拉世界，这一事件在巴别塔剧情中有所提及。</p>",
+      "tags": [
+        "神民",
+        "先民",
+        "塔卫二"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "未知",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "originium_discovery",
+      "year": "约前9000年~前8000年",
+      "era": "远古时代",
+      "title": "源石启封",
+      "description": "提卡兹启封源石\"阿喃那\"，矿石病和萨卡兹巫术出现。",
+      "content": "<p>提卡兹与神民、先民爆发千年生存竞争。\"远逐者\"派遣勇者进入银色山脉寻找前文明造物，成功寻得并启封三颗最初源石之一的\"阿喃那\"，矿石病和萨卡兹巫术由此出现。</p>",
+      "tags": [
+        "源石",
+        "矿石病",
+        "萨卡兹"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "银色山脉",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "lateran_founding",
+      "year": "约前9000年~前8000年",
+      "era": "远古时代",
+      "title": "拉特兰建立",
+      "description": "十位勇士成为最初圣徒，建立拉特兰城。",
+      "content": "<p>\"远逐者\"派遣的勇士寻得人格与认知同步系统（PCS），歧法触发系统主机，这队勇士成为最初的十位圣徒，接受\"律法\"恩赐成为萨科塔，脱离卡兹戴尔建立拉特兰城。</p>",
+      "tags": [
+        "拉特兰",
+        "萨科塔",
+        "圣徒"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "拉特兰",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "first_catastrophe",
+      "year": "约前8000年",
+      "era": "远古时代",
+      "title": "第一场天灾",
+      "description": "有记载的第一场天灾降临泰拉，摧毁第一座卡兹戴尔，提卡兹更名为\"萨卡兹\"。",
+      "content": "<p>有记载的第一场天灾降临泰拉，摧毁了第一座卡兹戴尔城。提卡兹从此更名为\"萨卡兹\"，这一事件对泰拉世界产生了深远影响。</p>",
+      "tags": [
+        "天灾",
+        "卡兹戴尔",
+        "萨卡兹"
+      ],
+      "category": "disaster",
+      "importance": "critical",
+      "location": "卡兹戴尔",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "second_kazdel",
+      "year": "约前7000年",
+      "era": "远古时代",
+      "title": "第二座卡兹戴尔",
+      "description": "\"砌城匠\"戈渎等人建立第二座卡兹戴尔城，戈渎成为第二位魔王。",
+      "content": "<p>\"砌城匠\"戈渎、\"焕日者\"霸迩萨和\"青色怒火\"奎隆组建探索队伍，抵达\"哀愁之地\"并建立第二座卡兹戴尔城。戈渎成为第二位魔王。</p>",
+      "tags": [
+        "卡兹戴尔",
+        "魔王",
+        "萨卡兹"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "卡兹戴尔",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "fire_rebellion",
+      "year": "约前7000年~前6000年",
+      "era": "远古时代",
+      "title": "焚火叛乱",
+      "description": "霸迩萨杀死戈渎成为第三位魔王，第二座卡兹戴尔城崩塌大半。",
+      "content": "<p>萨卡兹的后流亡时代，霸迩萨因不满戈渎的维稳政策而杀死了他，第二座卡兹戴尔城崩塌大半。霸迩萨成为第三位魔王，此事件被称为\"焚火叛乱\"。最终奎隆杀掉霸迩萨成为第四位魔王。</p>",
+      "tags": [
+        "卡兹戴尔",
+        "魔王",
+        "叛乱"
+      ],
+      "category": "war",
+      "importance": "high",
+      "location": "卡兹戴尔",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "court_system",
+      "year": "约前6000年~前5700年",
+      "era": "远古时代",
+      "title": "王庭制度建立",
+      "description": "\"游侠君主\"奎隆重建卡兹戴尔，建立王庭制度。",
+      "content": "\"游侠君主\"奎隆致力于重建卡兹戴尔城，削弱了氏族权利并赐予血脉之主权利，由此建立了王庭制度。晚年因神民霸主威胁，奎隆率领部分萨卡兹氏族东迁，其率领的氏族后来成为炎国的阿纳萨和东国的鬼族。",
+      "tags": [
+        "卡兹戴尔",
+        "王庭",
+        "奎隆"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "卡兹戴尔",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "first_workshop",
+      "year": "约前400年",
+      "era": "古代",
+      "title": "源石工坊出现",
+      "description": "已知最早的源石制品工坊在萨尔贡塔尔萨萨古镇出现。",
+      "content": "<p>约前400年，已知最早的源石制品工坊在萨尔贡的塔尔萨萨古镇出现，标志着源石应用技术的早期发展。</p>",
+      "tags": [
+        "源石",
+        "工坊",
+        "萨尔贡"
+      ],
+      "category": "technology",
+      "importance": "medium",
+      "location": "萨尔贡·塔尔萨萨",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "shah_birth",
+      "year": "前35年",
+      "era": "古代",
+      "title": "沙阿出生",
+      "description": "\"沙阿\"路加萨尔古斯·沙鲁-苏苏鲁-拉比鲁乌-阿赫里图出生。",
+      "content": "<p>前35年，萨尔贡历史上重要的\"沙阿\"路加萨尔古斯出生。</p>",
+      "tags": [
+        "萨尔贡",
+        "沙阿",
+        "路加萨尔古斯"
+      ],
+      "category": "history",
+      "importance": "medium",
+      "location": "萨尔贡",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "three_lions_rebellion",
+      "year": "前20年",
+      "era": "古代",
+      "title": "三狮之乱",
+      "description": "路加萨尔古斯镇压\"三狮之乱\"，确立萨尔贡统治地位。",
+      "content": "<p>路加萨尔古斯迅速镇压了\"三狮之乱\"叛变，确立了其在萨尔贡的统治地位并清洗了宫廷内部的反对派。之后几年，他率军向北扩张萨尔贡版图。</p>",
+      "tags": [
+        "萨尔贡",
+        "沙阿",
+        "叛乱"
+      ],
+      "category": "war",
+      "importance": "high",
+      "location": "萨尔贡",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "terra_calendar_start",
+      "year": "泰拉历元年",
+      "era": "古代",
+      "title": "泰拉纪年开始",
+      "description": "路加萨尔古斯发现\"掌握时间\"的圣物，自封\"过去与未来之王\"，泰拉纪年开始。",
+      "content": "<p>泰拉历元年，路加萨尔古斯发现了\"掌握时间\"的\"圣物\"，自封为\"过去与未来之王\"。泰拉纪年由此开始计算。</p>",
+      "tags": [
+        "萨尔贡",
+        "纪年",
+        "路加萨尔古斯"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "萨尔贡",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "mongol_conquest",
+      "year": "11年",
+      "era": "古代",
+      "title": "梦魇远征",
+      "description": "\"哈兰杜汗\"达拉台一统草原，率怯薛勇士征服高卢等多国。",
+      "content": "<p>11年，\"哈兰杜汗\"达拉台一统草原，开始举兵出征。作为梦魇大可汗，他率领怯薛勇士征服了高卢等多个国家。</p>",
+      "tags": [
+        "梦魇",
+        "远征",
+        "哈兰杜汗"
+      ],
+      "category": "war",
+      "importance": "high",
+      "location": "草原",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "ursus_founding",
+      "year": "31年",
+      "era": "古代",
+      "title": "乌萨斯建国",
+      "description": "伊戈尔攻陷圣骏堡，骏鹰帝国更名为乌萨斯帝国。",
+      "content": "<p>27年乌萨斯起义，\"养熊人\"伊戈尔向骏鹰举起反旗。31年，起义军攻陷圣骏堡，伊戈尔登上皇座，骏鹰帝国正式更名为乌萨斯帝国。</p>",
+      "tags": [
+        "乌萨斯",
+        "伊戈尔",
+        "建国"
+      ],
+      "category": "history",
+      "importance": "critical",
+      "location": "乌萨斯·圣骏堡",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "crystal_era_start",
+      "year": "797年",
+      "era": "近现代",
+      "title": "结晶纪元开始",
+      "description": "七城联邦建成泰拉历史上第一座现代移动城市，泰拉进入\"结晶纪元\"。",
+      "content": "<p>797年，七城联邦建成泰拉历史上第一座现代移动城市，以此为标志，泰拉正式进入\"结晶纪元\"。</p>",
+      "tags": [
+        "移动城市",
+        "结晶纪元",
+        "七城联邦"
+      ],
+      "category": "technology",
+      "importance": "critical",
+      "location": "七城联邦",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "victoria_revolution",
+      "year": "800年前后",
+      "era": "近现代",
+      "title": "维多利亚政变",
+      "description": "阿斯兰发动宫廷政变，维多利亚变为龙与狮子共治之国。",
+      "content": "<p>800年前后，维多利亚的阿斯兰发动宫廷政变，迫使德拉克皇室承认其皇室地位。维多利亚从此变为龙与狮子共治之国，路加沙姆什之孙成为第一任狮王。</p>",
+      "tags": [
+        "维多利亚",
+        "阿斯兰",
+        "政变"
+      ],
+      "category": "history",
+      "importance": "high",
+      "location": "维多利亚",
+      "related_factions": [],
+      "related_characters": [],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "kazdel_war_898",
+      "year": "898年",
+      "era": "近现代",
+      "title": "卡兹戴尔战争",
+      "description": "凯尔希率三国联军进攻卡兹戴尔，萨卡兹六英雄反击，特蕾西娅被选为魔王。",
+      "content": "<p>898年，凯尔希率领维多利亚、莱塔尼亚和高卢三国联军进攻卡兹戴尔，受到萨卡兹\"六英雄\"的反击。战后卡兹戴尔化为废墟，特蕾西娅被选召为魔王，开启萨卡兹的\"英雄时代\"。</p>",
+      "tags": [
+        "卡兹戴尔",
+        "六英雄",
+        "特蕾西娅"
+      ],
+      "category": "war",
+      "importance": "critical",
+      "location": "卡兹戴尔",
+      "related_factions": [],
+      "related_characters": [
+        "keli"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "babel_founding",
+      "year": "约1093年",
+      "era": "近现代",
+      "title": "巴别塔成立",
+      "description": "特蕾西亚创建巴别塔组织，聚集了一批志同道合的伙伴。",
+      "content": "<p>巴别塔承载着特蕾西亚的理想——建立一个感染者与普通人和平共处的世界。在她的号召下，来自各地的精英聚集在一起。</p>",
+      "tags": [
+        "巴别塔",
+        "特蕾西亚",
+        "组织"
+      ],
+      "category": "organization",
+      "importance": "high",
+      "location": "未知",
+      "related_factions": [
+        "babel"
+      ],
+      "related_characters": [
+        "talula",
+        "amya",
+        "keli"
+      ],
+      "quotes": [
+        {
+          "text": "我们终将打破这片天空的束缚。",
+          "author": "特蕾西亚"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "babel_incident",
+      "year": "约1095年",
+      "era": "近现代",
+      "title": "巴别塔事件",
+      "description": "巴别塔组织在大规模冲突后解散，核心成员四散。",
+      "content": "<p>那场惨烈的战斗改变了一切。巴别塔的陨落，带走的不仅是一个组织，更是一个时代的希望。幸存者们带着伤痛和决心，开始了各自的旅程。</p>",
+      "tags": [
+        "战争",
+        "巴别塔",
+        "历史"
+      ],
+      "category": "war",
+      "importance": "critical",
+      "location": "卡兹戴尔",
+      "related_factions": [
+        "babel",
+        "rhodes"
+      ],
+      "related_characters": [
+        "talula",
+        "amya",
+        "keli",
+        "doctor"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "rhodes_founding",
+      "year": "1095年后",
+      "era": "当代",
+      "title": "罗德岛成立",
+      "description": "巴别塔核心成员重组成立罗德岛，以制药公司为掩护。",
+      "content": "<p>从灰烬中重生的罗德岛，继承了巴别塔的意志，但选择了一条更温和的道路。作为一家制药公司，罗德岛不仅研发治疗矿石病的药物，更是感染者的避风港。</p>",
+      "tags": [
+        "组织",
+        "罗德岛"
+      ],
+      "category": "organization",
+      "importance": "critical",
+      "location": "罗德岛移动舰",
+      "related_factions": [
+        "rhodes",
+        "babel"
+      ],
+      "related_characters": [
+        "amya",
+        "keli",
+        "doctor"
+      ],
+      "quotes": [
+        {
+          "text": "这里是罗德岛，我们的家。",
+          "author": "阿米娅"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "reunion_founding",
+      "year": "约1096年",
+      "era": "当代",
+      "title": "整合运动兴起",
+      "description": "整合运动由受迫害的感染者组建，以暴力手段争取权益。",
+      "content": "<p>整合运动，一个由感染者组成的组织。他们厌倦了被压迫的生活，选择用力量来争取属于自己的权利。</p>",
+      "tags": [
+        "组织",
+        "整合运动",
+        "感染者"
+      ],
+      "category": "organization",
+      "importance": "high",
+      "location": "切尔诺伯格",
+      "related_factions": [
+        "reunion"
+      ],
+      "related_characters": [
+        "talula",
+        "patriot"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "chernobog_incident",
+      "year": "1097年",
+      "era": "当代",
+      "title": "切尔诺伯格事件",
+      "description": "整合运动发动对切尔诺伯格的袭击，城市被控制。",
+      "content": "<p>切尔诺伯格在那一天成为了战争的舞台。整合运动的攻势势不可挡，城市迅速陷落。在这场混乱中，罗德岛与整合运动的命运首次交织在一起。</p>",
+      "tags": [
+        "战争",
+        "天灾",
+        "感染者",
+        "整合运动"
+      ],
+      "category": "war",
+      "importance": "critical",
+      "location": "切尔诺伯格",
+      "related_factions": [
+        "reunion",
+        "rhodes"
+      ],
+      "related_characters": [
+        "talula",
+        "mephisto",
+        "faust",
+        "patriot",
+        "amya",
+        "doctor"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "lungmen_blockade",
+      "year": "1097年",
+      "era": "当代",
+      "title": "龙门封锁",
+      "description": "整合运动对龙门发动攻击，龙门进入紧急状态。",
+      "content": "<p>龙门这座东方明珠，从未面临过如此严峻的挑战。整合运动的舰队逼近，整座城市进入戒备状态。切尔诺伯格的废墟成为各方势力争夺的焦点。</p>",
+      "tags": [
+        "战争",
+        "龙门",
+        "整合运动"
+      ],
+      "category": "war",
+      "importance": "high",
+      "location": "龙门",
+      "related_factions": [
+        "lungmen",
+        "reunion"
+      ],
+      "related_characters": [
+        "executor",
+        "starho",
+        "talula"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "talula_revelation",
+      "year": "1097年",
+      "era": "当代",
+      "title": "塔露拉真相",
+      "description": "塔露拉的真实身份和过去被揭露，引发重大转折。",
+      "content": "<p>塔露拉这位整合运动的领袖，她的背后隐藏着太多秘密。当真相被揭开的那一刻，所有人都为之震惊。她的故事，是悲剧，也是抗争。</p>",
+      "tags": [
+        "剧情",
+        "塔露拉"
+      ],
+      "category": "story",
+      "importance": "critical",
+      "location": "龙门",
+      "related_factions": [
+        "reunion",
+        "rhodes"
+      ],
+      "related_characters": [
+        "talula",
+        "keli"
+      ],
+      "quotes": [],
+      "images": []
+    },
+    {
+      "id": "talula_disappearance",
+      "year": "1098年",
+      "era": "当代",
+      "title": "塔露拉失踪",
+      "description": "关键战役后，塔露拉下落不明，整合运动陷入分裂。",
+      "content": "<p>那场决定性的战斗之后，塔露拉消失了。没有人知道她去了哪里，是生是死。失去了领袖的整合运动，陷入了群龙无首的混乱之中。</p>",
+      "tags": [
+        "剧情",
+        "塔露拉",
+        "整合运动"
+      ],
+      "category": "story",
+      "importance": "high",
+      "location": "未知",
+      "related_factions": [
+        "reunion"
+      ],
+      "related_characters": [
+        "talula"
+      ],
+      "quotes": [],
+      "images": []
+    }
+  ],
+  "categories": {
+    "history": {
+      "name": "历史",
+      "color": "#8B4513",
+      "icon": "📜"
+    },
+    "disaster": {
+      "name": "天灾",
+      "color": "#DC143C",
+      "icon": "🌋"
+    },
+    "organization": {
+      "name": "组织",
+      "color": "#4169E1",
+      "icon": "🏛️"
+    },
+    "war": {
+      "name": "战争",
+      "color": "#8B0000",
+      "icon": "⚔️"
+    },
+    "story": {
+      "name": "剧情",
+      "color": "#9370DB",
+      "icon": "📖"
+    },
+    "technology": {
+      "name": "科技",
+      "color": "#00CED1",
+      "icon": "🔬"
+    }
+  },
+  "importanceLevels": {
+    "low": {
+      "name": "一般",
+      "color": "#808080"
+    },
+    "medium": {
+      "name": "重要",
+      "color": "#FFD700"
+    },
+    "high": {
+      "name": "重大",
+      "color": "#FF6347"
+    },
+    "critical": {
+      "name": "关键",
+      "color": "#DC143C"
+    }
+  }
+}

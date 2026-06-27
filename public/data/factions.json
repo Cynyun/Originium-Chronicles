@@ -1,0 +1,88 @@
+{
+  "factions": [
+    {
+      "id": "rhodes",
+      "name": "罗德岛",
+      "color": "#4A90E2",
+      "description": "表面是跨国制药公司，实际上是感染者庇护所与感染者权利组织。致力于研发矿石病治疗方案，同时为感染者提供生活与工作保障。",
+      "leader": "阿米娅",
+      "founded": "巴别塔事件后",
+      "location": "移动城市",
+      "key_members": ["博士", "阿米娅", "凯尔希", "可露希尔", "煌", "陈", "杜宾", "临光"],
+      "related_factions": ["lungmen", "babel"],
+      "icon": "/icons/rhodes_icon.png"
+    },
+    {
+      "id": "reunion",
+      "name": "整合运动",
+      "color": "#D0021B",
+      "description": "由感染者组成的革命组织，以暴力手段对抗歧视感染者的势力。成员来自各地因矿石病而遭受迫害的感染者，是泰拉世界规模最大的感染者组织。",
+      "leader": "塔露拉",
+      "founded": "1096年12月",
+      "location": "切尔诺伯格",
+      "key_members": ["塔露拉", "梅菲斯特", "浮士德", "爱国者", "霜星", "W"],
+      "related_factions": ["rhodes"],
+      "icon": "/icons/reunion_icon.png"
+    },
+    {
+      "id": "lungmen",
+      "name": "龙门",
+      "color": "#FF6B35",
+      "description": "东方风格的繁华都市，由魏彦吾市长统治。龙门是泰拉世界最发达的贸易港口之一，也是重要的商业与文化交流中心，拥有强大的近卫局执法力量。",
+      "leader": "魏彦吾",
+      "founded": "未知",
+      "location": "炎国东部",
+      "key_members": ["魏彦吾", "陈", "星熊", "诗怀雅", "文月"],
+      "related_factions": ["rhodes", "penguin"],
+      "icon": "/icons/lungmen_icon.png"
+    },
+    {
+      "id": "penguin",
+      "name": "企鹅物流",
+      "color": "#50C878",
+      "description": "龙门最大的民间快递公司，同时也承接各种委托任务。公司成员包括各行各业的精英人士，组织结构神秘。明面上开展正常的物流运输业务，暗地里却开展着情报贩卖、武装押运、秘密运输等游走于法律边缘的业务。",
+      "leader": "大帝",
+      "founded": "1093年",
+      "location": "龙门",
+      "key_members": ["大帝", "德克萨斯", "拉普兰德", "空", "能天使"],
+      "related_factions": ["lungmen"],
+      "icon": "/icons/penguin_icon.png"
+    },
+    {
+      "id": "babel",
+      "name": "巴别塔",
+      "color": "#9B59B6",
+      "description": "罗德岛的前身组织，由特蕾西亚创建。在一次针对卡兹戴尔的大规模冲突后解散，核心成员后来重组为罗德岛。曾致力于源石技艺与感染者问题的研究。",
+      "leader": "特蕾西亚",
+      "founded": "约1093年",
+      "location": "已解散",
+      "key_members": ["特蕾西亚", "阿米娅", "凯尔希", "博士", "W", "ACE"],
+      "related_factions": ["rhodes", "reunion"],
+      "icon": "/icons/babel_icon.png"
+    },
+    {
+      "id": "kjerag",
+      "name": "喀兰贸易",
+      "color": "#87CEEB",
+      "description": "谢拉格三族议会属国营对外贸易组织，以雪山国家喀兰为基地。主要从事谢拉格非传统贸易，即商品、原料出口和现代工业进口贸易。军工产业、军事训练等产业也有所涉及，实际上是深红之牙家族的秘密掩护公司。",
+      "leader": "银灰",
+      "founded": "未知",
+      "location": "谢拉格",
+      "key_members": ["银灰", "初雪", "崖心", "讯使"],
+      "related_factions": ["rhodes"],
+      "icon": "/icons/kjerag_icon.png"
+    },
+    {
+      "id": "kazdel",
+      "name": "卡兹戴尔",
+      "color": "#FFD700",
+      "description": "萨卡兹族的故乡，曾经是一个强大的帝国。因内战而分裂，目前处于混乱状态。卡兹戴尔的王位继承权问题是各方势力争夺的焦点，由军事委员会统治。",
+      "leader": "特雷西斯",
+      "founded": "远古时代",
+      "location": "萨卡兹领地",
+      "key_members": ["特雷西斯", "特蕾西亚（已故）", "W", "闪灵", "夜莺"],
+      "related_factions": ["babel", "rhodes"],
+      "icon": "✧"
+    }
+  ]
+}
